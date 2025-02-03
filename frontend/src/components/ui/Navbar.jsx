@@ -4,9 +4,7 @@ import React from 'react'
 import { LuSun } from 'react-icons/lu'
 import { IoMoon } from 'react-icons/io5'
 import {
-  ColorModeButton,
-  useColorMode,
-  useColorModeValue,
+  useColorMode
 } from "@/components/ui/color-mode"
 
 import { CiSquarePlus } from "react-icons/ci";
